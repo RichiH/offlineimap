@@ -211,7 +211,7 @@ in between.
 5. Turn off fsync.
 +
 In the [general] section you can set fsync to True or False. If you want to
-play 110% safe and wait for all operations to hit the disk before continueing,
+play 110% safe and wait for all operations to hit the disk before continuing,
 you can set this to True. If you set it to False, you lose some of that
 safety, trading it for speed.
 
